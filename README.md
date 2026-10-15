@@ -15,7 +15,7 @@ I'm a B.Tech student specializing in Artificial Intelligence and Machine Learnin
 
 **Languages**
 
-Python · Java · JavaScript · SQL
+Python · Java · C/C++ · SQL
 
 **AI / Machine Learning**
 
@@ -23,7 +23,7 @@ PyTorch · TensorFlow · Scikit-learn · OpenCV · NLP · RAG
 
 **Development & Tools**
 
-React · Node.js · Git · GitHub · MongoDB
+React · REST · Git · GitHub · MongoDB
 
 ---
 
